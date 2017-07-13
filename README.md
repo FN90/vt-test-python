@@ -1,5 +1,5 @@
 # vt-test-python
-Product matching algorithm
+Products matching algorithm
 <br>
 To compile this program you need to use Python 3.5+
 <br>
